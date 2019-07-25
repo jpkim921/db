@@ -1,6 +1,5 @@
-{
-  "therapists": [
-      {
+ [
+    {
       "name": "Pero Kim",
       "email": "pero@test.com",
       "phone": 1234567890,
@@ -15,4 +14,3 @@
       "password": "test"
     }
   ]
-}
