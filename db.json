@@ -27,17 +27,7 @@
           "city": "New York City",
           "state": "New York",
           "zipcode": 10002
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "SpongeBob Squarepants",
-      "email": "sponge@test.com",
-      "phone": "1111111111",
-      "discipline": "Physical Therapist",
-      "password": "test",
-      "patients": [
+        },
         {
           "name": "Rebeca Faison",
           "email": "RF@test.com",
