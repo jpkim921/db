@@ -1,9 +1,9 @@
 {
-    "therapists": 
+    "therapists": [
     {
         "name": "Pero Kim",
         "email": "pero@test.com",
-        "phone": 1234567890,
+        "phone": "1234567890",
         "discipline": "Occupational Therapist",
         "password": "test",
         "patients": [
@@ -32,7 +32,7 @@
     {
         "name": "SpongeBob Squarepants",
         "email": "sponge@test.com",
-        "phone": 1111111111,
+        "phone": "1111111111",
         "discipline": "Physical Therapist",
         "password": "test",
         "patients": [
@@ -67,6 +67,6 @@
                 "zipcode": 10005
             }
         ]
-    }
+    }]
     
 }
