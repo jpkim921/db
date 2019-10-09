@@ -122,5 +122,8 @@
           "state": "New York",
           "zipcode": 10005
         }
-      ]
+      ],
+  "profile": {
+    "name": "typicode"
+  }
 }
