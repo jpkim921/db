@@ -9,6 +9,7 @@
       "password": "test",
       "patients": [
         {
+          "id": 1,
           "name": "Karren Fowler",
           "email": "KF@test.com",
           "phone": "1111111111",
@@ -19,6 +20,7 @@
           "zipcode": 10001
         },
         {
+          "id": 2,
           "name": "Sulema Behne",
           "email": "SB@test.com",
           "phone": "2222222222",
@@ -29,6 +31,7 @@
           "zipcode": 10002
         },
         {
+          "id": 3,
           "name": "Rebeca Faison",
           "email": "RF@test.com",
           "phone": "3333333333",
@@ -39,6 +42,7 @@
           "zipcode": 10003
         },
         {
+          "id": 4,
           "name": "Milagros Coutu",
           "email": "MC@test.com",
           "phone": "4444444444",
@@ -49,6 +53,7 @@
           "zipcode": 10004
         },
         {
+          "id": 5,
           "name": "Stephine Ruoff",
           "email": "SR@test.com",
           "phone": "5555555555",
