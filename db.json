@@ -67,14 +67,6 @@
     }
   ],
   "patients": [
-    {
-      "id": 1,
-      "name": "Pero Kim",
-      "email": "pero@test.com",
-      "phone": "1234567890",
-      "discipline": "Occupational Therapist",
-      "password": "test",
-      "patients": [
         {
           "id": 1,
           "name": "Karren Fowler",
